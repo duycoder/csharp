@@ -1,0 +1,7 @@
+E:\Projects\CSharp\csharp\source\Introduction\Introduction\bin\Debug\Introduction.exe.config
+E:\Projects\CSharp\csharp\source\Introduction\Introduction\bin\Debug\Introduction.exe
+E:\Projects\CSharp\csharp\source\Introduction\Introduction\bin\Debug\Introduction.pdb
+E:\Projects\CSharp\csharp\source\Introduction\Introduction\obj\Debug\Introduction.csprojAssemblyReference.cache
+E:\Projects\CSharp\csharp\source\Introduction\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp\csharp\source\Introduction\Introduction\obj\Debug\Introduction.exe
+E:\Projects\CSharp\csharp\source\Introduction\Introduction\obj\Debug\Introduction.pdb
